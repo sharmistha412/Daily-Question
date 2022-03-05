@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/minimum-moves-to-reach-target-score/
+// https://leetcode.com/problems/minimum-moves-to-reach-target-score/
 
 class Solution {
     public int minMoves(int target, int maxDoubles) {
