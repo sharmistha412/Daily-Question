@@ -1,5 +1,5 @@
 //Champagne Tower
-
+import java.util.*;
 class Solution {
     public double champagneTower(int poured, int query_row, int query_glass) {
         if (poured == 0)

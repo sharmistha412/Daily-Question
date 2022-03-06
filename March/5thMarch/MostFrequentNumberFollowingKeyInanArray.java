@@ -1,5 +1,5 @@
 //Most Frequent Number Following Key In an Array
-
+import java.util.*;
 class Solution {
     public int mostFrequent(int[] nums, int key) {
         Map<Integer,Integer> map = new HashMap<>();

@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/k-radius-subarray-averages/
-
+import java.util.*;
 class Solution {
     public int[] getAverages(int[] nums, int k) {
         //prefix sum question
